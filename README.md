@@ -1,6 +1,6 @@
-# Daisy Quick Start Notebooks
+# Daisy Python Library Notebooks
 
-Jupyter notebooks for getting started with the [Daisy lab automation platform](https://scalables.com) by Scalables, LLC.
+Quick start guides and example scripts for the [Scalables Daisy lab automation platform](https://scalables.com) using the Daisy Python library directly.
 
 ## Requirements
 
@@ -26,7 +26,7 @@ Jupyter notebooks for getting started with the [Daisy lab automation platform](h
 ## Getting Started
 
 1. Install the library: `pip install daisylab`
-2. Connect your Daisy instrument via USB
+2. Connect your Daisy instrument via USB-C
 3. Open the relevant notebook and follow along
 
 For questions or support, contact [support@scalables.com](mailto:support@scalables.com).
