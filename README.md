@@ -1,6 +1,6 @@
 # Daisy Python Library Notebooks
 
-Quick start guides and example scripts for the [Scalables Daisy lab automation platform](https://scalables.com) using the Daisy Python library directly.
+Quick start guides and example scripts for the Daisy lab automation platform using the Daisy Python library by [Scalables](https://scalables.com).
 
 ## Requirements
 
